@@ -1,0 +1,11 @@
+CHANNEL=#testchannel1
+KEYWORD:what is fork
+RESPONSE:In Unix, fork() is a system call that creates a new process, known as a child process, which runs concurrently with the process that makes the fork() call (parent process).
+---
+CHANNEL=#testchannel1
+KEYWORD:explain pipe
+RESPONSE:A pipe is a unidirectional data channel that can be used for interprocess communication. One process writes to the pipe, and another reads from it.
+---
+CHANNEL=#testchannel2
+KEYWORD:what is shared memory
+RESPONSE:Shared memory is memory that may be simultaneously accessed by multiple programs with an intent to provide communication among them or avoid redundant copies.

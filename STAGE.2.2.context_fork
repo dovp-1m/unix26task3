@@ -1,0 +1,2 @@
+usage of Fork() or Threads context
+STAGE.2.1.mains_src_main_c:        fork()

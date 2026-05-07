@@ -1,0 +1,4 @@
+usage of Shared Memory context
+STAGE.2.1.mains_src_main_c:    shmget()
+STAGE.2.1.mains_src_main_c:    shmat()
+STAGE.2.1.mains_src_main_c:        shmat()

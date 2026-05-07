@@ -1,0 +1,7 @@
+CHANNEL=*
+KEYWORD:what is your name
+RESPONSE:My name is bdope1157, your friendly neighborhood bot!
+---
+CHANNEL=*
+KEYWORD:how are you
+RESPONSE:I am operating within normal parameters. Thanks for asking, %sender%!

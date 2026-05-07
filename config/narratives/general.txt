@@ -1,0 +1,15 @@
+CHANNEL=*
+KEYWORD:your name
+RESPONSE:I am bdope1157, an IRC bot for the Unix course.
+---
+KEYWORD:how are you
+RESPONSE:I am functioning optimally!
+---
+KEYWORD:what is irc
+RESPONSE:IRC stands for Internet Relay Chat. It's a protocol for real-time text messaging between internet-connected computers.
+---
+KEYWORD:ping
+RESPONSE:pong!
+---
+KEYWORD:hello
+RESPONSE:Hello there!

@@ -1,0 +1,23 @@
+CHANNEL=#unix-help
+KEYWORD:ls command
+RESPONSE:The 'ls' command lists directory contents. Use 'ls -l' for a long listing format and 'ls -a' to show hidden files.
+---
+CHANNEL=#unix-help
+KEYWORD:cd command
+RESPONSE:'cd' stands for change directory. It's used to navigate the file system. 'cd ..' goes to the parent directory.
+---
+CHANNEL=#unix-help
+KEYWORD:grep command
+RESPONSE:'grep' searches for patterns in text. For example, 'grep "error" logfile.txt' finds lines containing "error" in logfile.txt.
+---
+CHANNEL=#unix-help
+KEYWORD:chmod command
+RESPONSE:'chmod' changes the permissions of files or directories. For example, 'chmod +x script.sh' makes a script executable.
+---
+CHANNEL=#unix-help
+KEYWORD:what is sudo
+RESPONSE:'sudo' (superuser do) allows a permitted user to execute a command as the superuser or another user, as specified by the security policy.
+---
+CHANNEL=#unix-help
+KEYWORD:man command
+RESPONSE:The 'man' command displays the user manual of any command that we can run on the terminal. For example, 'man ls'.

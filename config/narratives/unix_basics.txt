@@ -1,0 +1,15 @@
+CHANNEL=#unix-help
+KEYWORD:what is unix
+RESPONSE:Unix is a family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix, developed in the 1970s at the Bell Labs research center.
+---
+CHANNEL=#unix-help
+KEYWORD:what is a shell
+RESPONSE:A shell is a command-line interpreter that provides a user interface for accessing an operating system's services. Common shells include bash, zsh, and ksh.
+---
+CHANNEL=#unix-help
+KEYWORD:linux vs unix
+RESPONSE:Linux is a Unix-like operating system kernel. Most Linux distributions are based on the Linux kernel and often include many GNU tools, making them Unix-like. Unix is a broader term referring to a family of OSes that meet certain standards.
+---
+CHANNEL=#unix-help
+KEYWORD:what is kernel
+RESPONSE:The kernel is the core component of an operating system. It manages the system's resources and acts as an intermediary between the hardware and software.

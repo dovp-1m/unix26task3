@@ -1,0 +1,15 @@
+CHANNEL=#testchannel1
+KEYWORD:what is fork
+RESPONSE:The fork() system call is used to create a new process, called a child process, which is an almost identical copy of the parent process.
+---
+CHANNEL=#testchannel1
+KEYWORD:explain pipe
+RESPONSE:A pipe is a unidirectional mechanism for inter-process communication; data written to the write end of the pipe is buffered by the OS until it is read from the read end.
+---
+CHANNEL=#testchannel1
+KEYWORD:shared memory
+RESPONSE:Shared memory is an IPC technique where multiple processes can access the same block of memory, allowing for fast data exchange.
+---
+CHANNEL=#testchannel1
+KEYWORD:semaphore use
+RESPONSE:Semaphores are used to control access to shared resources by multiple processes in a concurrent system, preventing race conditions.

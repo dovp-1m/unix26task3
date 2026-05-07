@@ -1,0 +1,3 @@
+CHANNEL=#testchannel1
+KEYWORD:magic word
+RESPONSE:You said the magic word in #testchannel1, %sender%!
