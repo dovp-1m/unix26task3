@@ -13,6 +13,7 @@
 #include "irc_client.h"    
 #include "config_parser.h" 
 #include "narrative_parser.h"
+#include "ollama_client.h"
 
 #if defined(__linux__) || defined(__GNU_LIBRARY__)
 union semun {
